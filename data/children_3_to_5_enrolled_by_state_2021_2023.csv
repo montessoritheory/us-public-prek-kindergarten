@@ -1,0 +1,157 @@
+year,state,state_abbr,age_group,percent_enrolled_in_school,standard_error,source_table
+2021,Alabama,AL,3 to 5,51.0,1.92,Digest 22 table 202.25
+2021,Alaska,AK,3 to 5,53.3,4.38,Digest 22 table 202.25
+2021,Arizona,AZ,3 to 5,45.7,1.15,Digest 22 table 202.25
+2021,Arkansas,AR,3 to 5,47.2,1.69,Digest 22 table 202.25
+2021,California,CA,3 to 5,51.1,0.62,Digest 22 table 202.25
+2021,Colorado,CO,3 to 5,58.2,1.33,Digest 22 table 202.25
+2021,Connecticut,CT,3 to 5,66.6,1.82,Digest 22 table 202.25
+2021,Delaware,DE,3 to 5,55.8,3.56,Digest 22 table 202.25
+2021,District of Columbia,DC,3 to 5,79.3,3.6,Digest 22 table 202.25
+2021,Florida,FL,3 to 5,57.1,0.87,Digest 22 table 202.25
+2021,Georgia,GA,3 to 5,57.1,1.04,Digest 22 table 202.25
+2021,Hawaii,HI,3 to 5,55.3,2.91,Digest 22 table 202.25
+2021,Idaho,ID,3 to 5,49.1,2.59,Digest 22 table 202.25
+2021,Illinois,IL,3 to 5,56.6,0.99,Digest 22 table 202.25
+2021,Indiana,IN,3 to 5,50.0,1.37,Digest 22 table 202.25
+2021,Iowa,IA,3 to 5,55.6,2.16,Digest 22 table 202.25
+2021,Kansas,KS,3 to 5,61.5,1.82,Digest 22 table 202.25
+2021,Kentucky,KY,3 to 5,50.2,1.59,Digest 22 table 202.25
+2021,Louisiana,LA,3 to 5,57.7,1.86,Digest 22 table 202.25
+2021,Maine,ME,3 to 5,51.7,3.48,Digest 22 table 202.25
+2021,Maryland,MD,3 to 5,50.7,1.36,Digest 22 table 202.25
+2021,Massachusetts,MA,3 to 5,59.4,1.36,Digest 22 table 202.25
+2021,Michigan,MI,3 to 5,52.3,1.09,Digest 22 table 202.25
+2021,Minnesota,MN,3 to 5,54.1,1.85,Digest 22 table 202.25
+2021,Mississippi,MS,3 to 5,52.3,2.3,Digest 22 table 202.25
+2021,Missouri,MO,3 to 5,53.2,1.57,Digest 22 table 202.25
+2021,Montana,MT,3 to 5,50.5,3.53,Digest 22 table 202.25
+2021,Nebraska,NE,3 to 5,59.4,2.24,Digest 22 table 202.25
+2021,Nevada,NV,3 to 5,42.8,1.93,Digest 22 table 202.25
+2021,New Hampshire,NH,3 to 5,50.7,3.48,Digest 22 table 202.25
+2021,New Jersey,NJ,3 to 5,63.6,1.08,Digest 22 table 202.25
+2021,New Mexico,NM,3 to 5,46.0,2.76,Digest 22 table 202.25
+2021,New York,NY,3 to 5,62.8,0.68,Digest 22 table 202.25
+2021,North Carolina,NC,3 to 5,51.2,1.3,Digest 22 table 202.25
+2021,North Dakota,ND,3 to 5,40.1,3.81,Digest 22 table 202.25
+2021,Ohio,OH,3 to 5,51.1,1.04,Digest 22 table 202.25
+2021,Oklahoma,OK,3 to 5,54.0,1.5,Digest 22 table 202.25
+2021,Oregon,OR,3 to 5,44.2,1.9,Digest 22 table 202.25
+2021,Pennsylvania,PA,3 to 5,50.1,1.16,Digest 22 table 202.25
+2021,Rhode Island,RI,3 to 5,49.3,2.95,Digest 22 table 202.25
+2021,South Carolina,SC,3 to 5,50.9,1.43,Digest 22 table 202.25
+2021,South Dakota,SD,3 to 5,56.4,3.49,Digest 22 table 202.25
+2021,Tennessee,TN,3 to 5,48.0,1.26,Digest 22 table 202.25
+2021,Texas,TX,3 to 5,51.3,0.7,Digest 22 table 202.25
+2021,United States,US,3 to 5,53.3,0.21,Digest 22 table 202.25
+2021,Utah,UT,3 to 5,53.0,1.61,Digest 22 table 202.25
+2021,Vermont,VT,3 to 5,69.0,4.92,Digest 22 table 202.25
+2021,Virginia,VA,3 to 5,51.7,1.07,Digest 22 table 202.25
+2021,Washington,WA,3 to 5,46.1,1.13,Digest 22 table 202.25
+2021,West Virginia,WV,3 to 5,38.4,2.8,Digest 22 table 202.25
+2021,Wisconsin,WI,3 to 5,56.0,1.67,Digest 22 table 202.25
+2021,Wyoming,WY,3 to 5,55.8,5.26,Digest 22 table 202.25
+2022,Alabama,AL,3 to 5,58.2,1.75,Digest 23 table 202.25
+2022,Alaska,AK,3 to 5,56.7,4.02,Digest 23 table 202.25
+2022,Arizona,AZ,3 to 5,46.9,1.48,Digest 23 table 202.25
+2022,Arkansas,AR,3 to 5,55.4,1.86,Digest 23 table 202.25
+2022,California,CA,3 to 5,58.2,0.56,Digest 23 table 202.25
+2022,Colorado,CO,3 to 5,63.2,1.42,Digest 23 table 202.25
+2022,Connecticut,CT,3 to 5,75.0,1.87,Digest 23 table 202.25
+2022,Delaware,DE,3 to 5,57.7,4.2,Digest 23 table 202.25
+2022,District of Columbia,DC,3 to 5,82.3,5.05,Digest 23 table 202.25
+2022,Florida,FL,3 to 5,61.4,0.71,Digest 23 table 202.25
+2022,Georgia,GA,3 to 5,61.5,1.17,Digest 23 table 202.25
+2022,Hawaii,HI,3 to 5,52.3,2.89,Digest 23 table 202.25
+2022,Idaho,ID,3 to 5,55.1,2.72,Digest 23 table 202.25
+2022,Illinois,IL,3 to 5,64.0,1.0,Digest 23 table 202.25
+2022,Indiana,IN,3 to 5,52.8,1.45,Digest 23 table 202.25
+2022,Iowa,IA,3 to 5,61.2,1.78,Digest 23 table 202.25
+2022,Kansas,KS,3 to 5,59.0,1.77,Digest 23 table 202.25
+2022,Kentucky,KY,3 to 5,50.3,1.5,Digest 23 table 202.25
+2022,Louisiana,LA,3 to 5,65.8,1.82,Digest 23 table 202.25
+2022,Maine,ME,3 to 5,55.0,3.52,Digest 23 table 202.25
+2022,Maryland,MD,3 to 5,61.4,1.62,Digest 23 table 202.25
+2022,Massachusetts,MA,3 to 5,66.5,1.44,Digest 23 table 202.25
+2022,Michigan,MI,3 to 5,59.2,1.29,Digest 23 table 202.25
+2022,Minnesota,MN,3 to 5,59.9,1.57,Digest 23 table 202.25
+2022,Mississippi,MS,3 to 5,60.7,2.26,Digest 23 table 202.25
+2022,Missouri,MO,3 to 5,55.9,1.27,Digest 23 table 202.25
+2022,Montana,MT,3 to 5,48.4,3.66,Digest 23 table 202.25
+2022,Nebraska,NE,3 to 5,56.8,2.31,Digest 23 table 202.25
+2022,Nevada,NV,3 to 5,50.5,1.99,Digest 23 table 202.25
+2022,New Hampshire,NH,3 to 5,62.0,3.61,Digest 23 table 202.25
+2022,New Jersey,NJ,3 to 5,73.8,1.17,Digest 23 table 202.25
+2022,New Mexico,NM,3 to 5,56.1,2.93,Digest 23 table 202.25
+2022,New York,NY,3 to 5,70.8,0.78,Digest 23 table 202.25
+2022,North Carolina,NC,3 to 5,52.3,1.11,Digest 23 table 202.25
+2022,North Dakota,ND,3 to 5,40.0,3.77,Digest 23 table 202.25
+2022,Ohio,OH,3 to 5,54.7,1.1,Digest 23 table 202.25
+2022,Oklahoma,OK,3 to 5,55.3,1.84,Digest 23 table 202.25
+2022,Oregon,OR,3 to 5,58.0,1.8,Digest 23 table 202.25
+2022,Pennsylvania,PA,3 to 5,55.9,1.17,Digest 23 table 202.25
+2022,Rhode Island,RI,3 to 5,63.6,4.21,Digest 23 table 202.25
+2022,South Carolina,SC,3 to 5,57.3,1.64,Digest 23 table 202.25
+2022,South Dakota,SD,3 to 5,52.0,3.97,Digest 23 table 202.25
+2022,Tennessee,TN,3 to 5,53.3,1.27,Digest 23 table 202.25
+2022,Texas,TX,3 to 5,57.3,0.61,Digest 23 table 202.25
+2022,United States,US,3 to 5,59.0,0.23,Digest 23 table 202.25
+2022,Utah,UT,3 to 5,57.0,1.59,Digest 23 table 202.25
+2022,Vermont,VT,3 to 5,73.0,3.67,Digest 23 table 202.25
+2022,Virginia,VA,3 to 5,57.4,1.24,Digest 23 table 202.25
+2022,Washington,WA,3 to 5,54.1,1.34,Digest 23 table 202.25
+2022,West Virginia,WV,3 to 5,47.7,2.66,Digest 23 table 202.25
+2022,Wisconsin,WI,3 to 5,56.5,1.64,Digest 23 table 202.25
+2022,Wyoming,WY,3 to 5,55.7,4.18,Digest 23 table 202.25
+2023,Alabama,AL,3 to 5,56.2,1.55,Digest 24 table 202.25
+2023,Alaska,AK,3 to 5,49.0,4.02,Digest 24 table 202.25
+2023,Arizona,AZ,3 to 5,53.7,1.24,Digest 24 table 202.25
+2023,Arkansas,AR,3 to 5,53.1,2.0,Digest 24 table 202.25
+2023,California,CA,3 to 5,61.6,0.6,Digest 24 table 202.25
+2023,Colorado,CO,3 to 5,62.2,1.67,Digest 24 table 202.25
+2023,Connecticut,CT,3 to 5,76.0,1.85,Digest 24 table 202.25
+2023,Delaware,DE,3 to 5,59.6,4.4,Digest 24 table 202.25
+2023,District of Columbia,DC,3 to 5,94.4,2.1,Digest 24 table 202.25
+2023,Florida,FL,3 to 5,63.3,0.88,Digest 24 table 202.25
+2023,Georgia,GA,3 to 5,63.5,1.0,Digest 24 table 202.25
+2023,Hawaii,HI,3 to 5,62.4,2.91,Digest 24 table 202.25
+2023,Idaho,ID,3 to 5,51.5,2.36,Digest 24 table 202.25
+2023,Illinois,IL,3 to 5,64.8,0.9,Digest 24 table 202.25
+2023,Indiana,IN,3 to 5,53.9,1.4,Digest 24 table 202.25
+2023,Iowa,IA,3 to 5,59.9,1.77,Digest 24 table 202.25
+2023,Kansas,KS,3 to 5,64.0,2.02,Digest 24 table 202.25
+2023,Kentucky,KY,3 to 5,50.7,1.65,Digest 24 table 202.25
+2023,Louisiana,LA,3 to 5,64.4,1.68,Digest 24 table 202.25
+2023,Maine,ME,3 to 5,60.0,3.62,Digest 24 table 202.25
+2023,Maryland,MD,3 to 5,62.4,1.55,Digest 24 table 202.25
+2023,Massachusetts,MA,3 to 5,67.0,1.44,Digest 24 table 202.25
+2023,Michigan,MI,3 to 5,58.8,1.37,Digest 24 table 202.25
+2023,Minnesota,MN,3 to 5,59.5,1.72,Digest 24 table 202.25
+2023,Mississippi,MS,3 to 5,60.3,1.79,Digest 24 table 202.25
+2023,Missouri,MO,3 to 5,56.5,1.38,Digest 24 table 202.25
+2023,Montana,MT,3 to 5,46.8,3.41,Digest 24 table 202.25
+2023,Nebraska,NE,3 to 5,63.5,2.76,Digest 24 table 202.25
+2023,Nevada,NV,3 to 5,48.8,1.92,Digest 24 table 202.25
+2023,New Hampshire,NH,3 to 5,57.7,3.44,Digest 24 table 202.25
+2023,New Jersey,NJ,3 to 5,74.6,1.09,Digest 24 table 202.25
+2023,New Mexico,NM,3 to 5,59.7,2.7,Digest 24 table 202.25
+2023,New York,NY,3 to 5,75.1,0.78,Digest 24 table 202.25
+2023,North Carolina,NC,3 to 5,54.0,1.16,Digest 24 table 202.25
+2023,North Dakota,ND,3 to 5,44.1,3.87,Digest 24 table 202.25
+2023,Ohio,OH,3 to 5,54.8,1.03,Digest 24 table 202.25
+2023,Oklahoma,OK,3 to 5,56.1,1.66,Digest 24 table 202.25
+2023,Oregon,OR,3 to 5,58.6,1.94,Digest 24 table 202.25
+2023,Pennsylvania,PA,3 to 5,58.3,1.13,Digest 24 table 202.25
+2023,Rhode Island,RI,3 to 5,62.5,3.63,Digest 24 table 202.25
+2023,South Carolina,SC,3 to 5,62.6,1.47,Digest 24 table 202.25
+2023,South Dakota,SD,3 to 5,55.7,3.94,Digest 24 table 202.25
+2023,Tennessee,TN,3 to 5,53.3,1.38,Digest 24 table 202.25
+2023,Texas,TX,3 to 5,60.3,0.63,Digest 24 table 202.25
+2023,United States,US,3 to 5,61.0,0.2,Digest 24 table 202.25
+2023,Utah,UT,3 to 5,61.7,1.78,Digest 24 table 202.25
+2023,Vermont,VT,3 to 5,75.4,4.97,Digest 24 table 202.25
+2023,Virginia,VA,3 to 5,60.6,1.26,Digest 24 table 202.25
+2023,Washington,WA,3 to 5,61.1,1.42,Digest 24 table 202.25
+2023,West Virginia,WV,3 to 5,48.6,2.63,Digest 24 table 202.25
+2023,Wisconsin,WI,3 to 5,58.1,1.65,Digest 24 table 202.25
+2023,Wyoming,WY,3 to 5,70.5,5.2,Digest 24 table 202.25
