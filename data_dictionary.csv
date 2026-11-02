@@ -1,0 +1,44 @@
+file,column,type,description,example
+children_3_to_5_enrolled_by_state_2021_2023.csv,year,int,Survey year of the American Community Survey,2022
+children_3_to_5_enrolled_by_state_2021_2023.csv,state,str,"State name, or United States",Alabama
+children_3_to_5_enrolled_by_state_2021_2023.csv,state_abbr,str,Two-letter postal code (US for the national total),AL
+children_3_to_5_enrolled_by_state_2021_2023.csv,age_group,str,Age group covered,3 to 5
+children_3_to_5_enrolled_by_state_2021_2023.csv,percent_enrolled_in_school,float,"Percent of 3- to 5-year-olds enrolled in school (preschool, nursery school, kindergarten or higher)",58.2
+children_3_to_5_enrolled_by_state_2021_2023.csv,standard_error,float,Jackknife standard error (80 JK1 replicate weights),1.75
+children_3_to_5_enrolled_by_state_2021_2023.csv,source_table,str,Digest of Education Statistics edition and table the figures come from,Digest 23 table 202.25
+national_prek_kindergarten.csv,fall_year,int,Fall of the school year (fall 2022 = school year 2022-23),2014
+national_prek_kindergarten.csv,prekindergarten,int,Public prekindergarten enrollment,1369355
+national_prek_kindergarten.csv,kindergarten,int,Public kindergarten enrollment,3772413
+national_prek_kindergarten.csv,total_all_grades,int,"Public school enrollment, all grades including ungraded",50312581
+national_prek_kindergarten.csv,prek_per_100_kindergartners,float,Public pre-K students for every 100 public kindergartners,36.3
+national_prek_kindergarten.csv,prek_share_of_enrollment_pct,float,Pre-K as a percent of all public school enrollment,2.72
+prek_and_kindergarten_by_state.csv,fall_year,int,Fall of the school year (fall 2022 = school year 2022-23),2014
+prek_and_kindergarten_by_state.csv,state,str,"State name, or United States",Kentucky
+prek_and_kindergarten_by_state.csv,state_abbr,str,Two-letter postal code (US for the national total),KY
+prek_and_kindergarten_by_state.csv,prekindergarten,int,Public prekindergarten enrollment,27345
+prek_and_kindergarten_by_state.csv,kindergarten,int,Public kindergarten enrollment,51876
+prek_and_kindergarten_by_state.csv,total_all_grades,int,"Public school enrollment, all grades including ungraded",688640
+prek_and_kindergarten_by_state.csv,source_note,str,NCES footnote on the pre-K or kindergarten figure (for example imputed values),Prekindergarten: Imputed by the National Center for Education Statistics.
+prek_and_kindergarten_by_state.csv,prek_per_100_kindergartners,float,Public pre-K students for every 100 public kindergartners,52.7
+prek_and_kindergarten_by_state.csv,prek_share_of_enrollment_pct,float,Pre-K as a percent of all public school enrollment,3.97
+prek_and_kindergarten_by_state.csv,prek_change_since_2012_pct,float,Percent change in public pre-K enrollment since fall 2012,2.2
+public_enrollment_by_state_and_grade_2010_2022.csv,fall_year,int,Fall of the school year (fall 2022 = school year 2022-23),2014
+public_enrollment_by_state_and_grade_2010_2022.csv,state,str,"State name, or United States",Kentucky
+public_enrollment_by_state_and_grade_2010_2022.csv,state_abbr,str,Two-letter postal code (US for the national total),KY
+public_enrollment_by_state_and_grade_2010_2022.csv,total_all_grades,int,"Public school enrollment, all grades including ungraded",688640
+public_enrollment_by_state_and_grade_2010_2022.csv,prekindergarten,int,Public prekindergarten enrollment,27345
+public_enrollment_by_state_and_grade_2010_2022.csv,kindergarten,int,Public kindergarten enrollment,51876
+public_enrollment_by_state_and_grade_2010_2022.csv,grade_1,int,Public enrollment in grade 1,54761
+public_enrollment_by_state_and_grade_2010_2022.csv,grade_2,int,Public enrollment in grade 2,53439
+public_enrollment_by_state_and_grade_2010_2022.csv,grade_3,int,Public enrollment in grade 3,51771
+public_enrollment_by_state_and_grade_2010_2022.csv,grade_4,int,Public enrollment in grade 4,50300
+public_enrollment_by_state_and_grade_2010_2022.csv,grade_5,int,Public enrollment in grade 5,50433
+public_enrollment_by_state_and_grade_2010_2022.csv,grade_6,int,Public enrollment in grade 6,50333
+public_enrollment_by_state_and_grade_2010_2022.csv,grade_7,int,Public enrollment in grade 7,49913
+public_enrollment_by_state_and_grade_2010_2022.csv,grade_8,int,Public enrollment in grade 8,51246
+public_enrollment_by_state_and_grade_2010_2022.csv,grade_9,int,Public enrollment in grade 9,54325
+public_enrollment_by_state_and_grade_2010_2022.csv,grade_10,int,Public enrollment in grade 10,50679
+public_enrollment_by_state_and_grade_2010_2022.csv,grade_11,int,Public enrollment in grade 11,47867
+public_enrollment_by_state_and_grade_2010_2022.csv,grade_12,int,Public enrollment in grade 12,43862
+public_enrollment_by_state_and_grade_2010_2022.csv,source_note,str,NCES footnote on the pre-K or kindergarten figure (for example imputed values),Prekindergarten: Imputed by the National Center for Education Statistics.
+public_enrollment_by_state_and_grade_2010_2022.csv,source_table,str,Digest of Education Statistics edition and table the figures come from,Digest 16 table 203.40

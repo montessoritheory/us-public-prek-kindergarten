@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, and credit the original NCES source."
+type: dataset
+title: "US Public Pre-K and Kindergarten Enrollment by State, 2010-2022"
+version: "1.0"
+date-released: 2026-11-02
+license: CC-BY-4.0
+authors:
+  - family-names: Carter
+    given-names: Sophia
+  - name: Montessori Theory
+    website: "https://www.montessori-theory.com/"
+repository-code: "https://github.com/montessoritheory/us-public-prek-kindergarten"
+url: "https://www.montessori-theory.com/"
+abstract: "Public school enrollment by grade, including prekindergarten and kindergarten, for the 50 US states and DC every fall from 2010 to 2022, with pre-K indicators and the share of 3- to 5-year-olds enrolled in school by state from 2021 to 2023, compiled from the NCES Digest of Education Statistics."
+keywords: [prekindergarten, kindergarten, early childhood, public schools, enrollment, NCES, states, United States]
+references:
+  - type: data
+    title: "U.S. Department of Education, NCES, Digest of Education Statistics tables 203.40, 203.45 (Common Core of Data) and 202.25 (Census ACS)"
+    authors:
+      - name: "U.S. Department of Education, National Center for Education Statistics"
+    url: "https://nces.ed.gov/programs/digest/"
